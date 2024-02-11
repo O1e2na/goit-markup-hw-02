@@ -16,7 +16,7 @@ list-style: none;
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.1;
+line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -60,27 +60,34 @@ color: #404bbf;
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
-line-height: 1.0;
+line-height: 1.07;
 letter-spacing: 0.02em;
 color: #fff;
+text-align: center;
 }
 .title-button {
- color: #4d5ae5;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
 }
    
 .title-button:hover,
 .title-button:focus {
-color: #404bbf;
+    background-color: #404BBF;
 }
 
 .advantages-title {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
-line-height: 1.2;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
+text-align: center;
 }
+
 .advantages-text {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
@@ -129,14 +136,14 @@ color: #4d5ae5;
 }
 
 .web-title {
-    color: #2e2f42;
+    background-color: #2e2f42;
 }
 
 .text {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1.17;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
