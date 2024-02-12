@@ -108,12 +108,12 @@ text-align: center;
 background-color: #f4f4fd;
 }
 
-.section-title {
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
+.section-team {
+    font-size:36px;
+    line-height:1.11;
+    letter-spacing:0.02em;
+    text-transform:capitalize;
+    text-align:center;
     color: #2e2f42;
 }
 
@@ -139,18 +139,14 @@ background-color: #f4f4fd;
 }
 
 .advance {
-font-family: "Roboto", sans-serif;
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11111;
-letter-spacing: 0.02em;
-text-transform: capitalize;
+font-family:"Roboto", sans-serif;
+font-weight:700;
+font-size:36px;
+line-height:1.11;
+letter-spacing:0.02em;
+text-transform:capitalize;
 text-align: center;
 color: #2e2f42;
-}
-.advance-time {
-}
-.advance-title {
 }
 
 .advance-name {
@@ -161,6 +157,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
+
 .advance-description {
  font-family: "Roboto", sans-serif;
 font-weight: 400;
